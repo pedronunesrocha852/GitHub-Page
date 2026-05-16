@@ -1,3 +1,4 @@
 # GitHub-Page
 Portifólio:
-Esse repositório serve para destacar e desenvolver meu portifólio pessoal
+Repositório dedicado à construção, evolução e destaque do meu portfólio pessoal, reunindo os principais projetos acadêmicos e autorais que reflete aquilo que
+eu faço de técnico e criativo
