@@ -1,3 +1,3 @@
 # GitHub-Page
-Portifólio:\n
+Portifólio:
 Esse repositório serve para destacar e desenvolver meu portifólio pessoal
